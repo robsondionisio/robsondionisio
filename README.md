@@ -1,4 +1,12 @@
-### Hi there 👋
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=051933&height=120&section=header"/> -->
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=robsondionisio&show_icons=true&count_private=true&hide_border=true&title_color=167bf7&icon_color=6bd1ff&text_color=ffffff&bg_color=012241" alt="Robson Dionisio github stats" /> 
+  
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondionisio&layout=compact&hide_border=true&title_color=167bf7&text_color=ffffff&bg_color=012241" />
+</div>
+
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=051933&height=120&section=footer"/> -->
 
 <!--
 **robsondionisio/robsondionisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
